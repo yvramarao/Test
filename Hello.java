@@ -7,5 +7,10 @@ public class Hello
 		System.out.println("Testing Main method");
 		//Replacing print statement with log statement
 		System.out.println("Replacing print statement with log statement");
+		
+		for (int a=0; a<10; a++)
+		{
+			System.out.println(a);
+		}
 	}
 }
