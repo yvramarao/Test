@@ -9,9 +9,9 @@ public class Hello
 		System.out.println("Replacing print statement with log statement");
 		
 		// Adding logic to print numbers
-		for (int i = 0;i<10;i++)
+		for (int a=0; a<10; a++)
 		{
-			System.out.print(i);
+			System.out.println(a);
 		}
 	}
 }
